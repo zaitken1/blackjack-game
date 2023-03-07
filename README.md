@@ -30,10 +30,6 @@ I have created a Blackjack game using JavaScript and the below game instructions
   
   * Once dealer stops, and neither player bust, compare each number to 21. Whoever is closer wins!
 
-* Pseudocode the outline of your game before you write any code.
-
-* Create functions if you begin to repeat yourself.
-
 ## Links
 
 Live application: https://zaitken1.github.io/blackjack-game/
