@@ -1,6 +1,6 @@
 # Blackjack Game
 
-In this mini-project you will work with a partner to complete a simple blackjack game.
+I have created a Blackjack game using JavaScript and the below game instructions.
 
 ## Instructions
 
@@ -34,16 +34,6 @@ In this mini-project you will work with a partner to complete a simple blackjack
 
 * Create functions if you begin to repeat yourself.
 
-### Notes
+## Links
 
-This is a difficult challenge. How you build this game is up to you. The goal here is to demonstrate when to use functions. If at any point you begin to type the same line of code, or if your code becomes unreadable, consider a function!
-
-## Hints
-
-  * Be sure that your random number generator is inclusive of the outer numbers.
-   
-  * We've used a lot of `for` loops. Don't forget that there are other types of loops.
-
----
-
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Live application: https://zaitken1.github.io/blackjack-game/
